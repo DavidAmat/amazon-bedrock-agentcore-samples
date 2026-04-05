@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 # Enable strict error handling
 set -euo pipefail
